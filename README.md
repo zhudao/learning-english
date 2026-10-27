@@ -422,6 +422,7 @@
 - [Merriam-Webster](https://www.merriam-webster.com/) - 提供各种词条的释义、发音和词源查询
 - [人生进阶指南](https://github.com/byoungd/up) - 英语出发的AI 时代终身学习指南
 - [Book Dash](https://bookdash.org/books/) - 提供各种类型英文绘本的公益性网站
+- [PlayVisualNovels](https://playvisualnovels.com/) - 免费在线畅玩各种英文视觉小说游戏
 
 ## 社交媒体
 
@@ -512,6 +513,8 @@
 - [LeafyApp](https://leafyapp.uk) - Mac 上的屏幕取词生词本，按 ⌥A 框住屏幕上任意一个词，把这个词连同它所在的整句一起存进词库，PDF、视频字幕、图片里的词也能取，之后可以用挖空原句的方式复习
 - [Qingjian](https://github.com/qingjian-team/qingjian) - 打字的时候会顺手教你一点外语
 - [EchoType](https://github.com/Talljack/echo-type) - 将听、说、读、写融合在一个工作流中
+- [Echo Loop](https://github.com/echo-loop/Echo-Loop) - 一个开源的英语听力和口语训练 App
+- [词光Word Atlas](https://github.com/designfuchen/word-atlas) - 免费开源的雅思背单词网页应用
 
   
 ## 适合应试
